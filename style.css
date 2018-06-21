@@ -1,4 +1,9 @@
 body{
-  background-color: #FF1493;
+  background-color: #f8b9cf;
   color: white;
+}
+
+.myName{
+  color: rgb(229, 2, 120);
+  font-family: 'Century Gothic', Helvetica, Arial, sans-serif;
 }
